@@ -1,0 +1,1 @@
+import{$ as o,o as e,a as c}from"./entry.95308f2b.js";const t={},r={src:"https://res.cloudinary.com/daraki09f/image/upload/v1713948129/waktoo-commerce/logo-waktoo-commerce.png"};function a(n,s){return e(),c("img",r)}const m=o(t,[["render",a]]);export{m as default};
