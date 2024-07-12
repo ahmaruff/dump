@@ -1,0 +1,1 @@
+import{R as c,J as a}from"./DmTmMO_-.js";function l(){const t=c("data"),n=a(()=>{var e;return(e=t.value)==null?void 0:e.token}),s=a(()=>{var e;return(e=t.value)==null?void 0:e.user}),o=a(()=>!!t.value),u=a(()=>o.value?{Accept:"application/json",Authorization:"Bearer "+t.value.token}:{Accept:"apllication/json"});return{token:n,user:s,loggedIn:o,headers:u.value}}export{l as u};

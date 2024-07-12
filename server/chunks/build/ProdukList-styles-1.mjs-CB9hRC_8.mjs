@@ -1,0 +1,3 @@
+const ProdukList_vue_vue_type_style_index_0_scoped_d47fbff7_lang = ".photo-upload-container[data-v-d47fbff7]{display:flex;flex-wrap:wrap;gap:16px}.photo-upload-item[data-v-d47fbff7]{margin:10px;width:100%}.kotak-dotted[data-v-d47fbff7]{align-items:center;border:2px dashed #ccc;display:flex;justify-content:center;margin-right:10px;padding:2px;text-align:center}.img-close-foto[data-v-d47fbff7],.kotak-dotted[data-v-d47fbff7]{border-radius:8px;height:100px}.img-close-foto[data-v-d47fbff7]{width:100px}.button-foto[data-v-d47fbff7]{background-color:#f1f1f1;border:none;cursor:pointer}.button-foto .size-4[data-v-d47fbff7]{font-size:24px}";
+
+export { ProdukList_vue_vue_type_style_index_0_scoped_d47fbff7_lang as P };

@@ -1,0 +1,3 @@
+const onboarding_vue_vue_type_style_index_0_scoped_5080e14e_lang = ".custom-scrollbar[data-v-5080e14e]::-webkit-scrollbar{width:8px}.custom-scrollbar[data-v-5080e14e]::-webkit-scrollbar-thumb{background-color:hsla(0,0%,78%,.37);border:0;border-radius:4px}.custom-scrollbar[data-v-5080e14e]::-webkit-scrollbar-thumb:hover{background-color:hsla(0,0%,56%,.723)}.custom-scrollbar[data-v-5080e14e]::-webkit-scrollbar-track{background-color:hsla(0,0%,97%,.8);border-radius:4px}.custom-scrollbar[data-v-5080e14e]{scrollbar-color:hsla(0,0%,39%,.5) hsla(0,0%,94%,.8);scrollbar-width:thin}";
+
+export { onboarding_vue_vue_type_style_index_0_scoped_5080e14e_lang as o };

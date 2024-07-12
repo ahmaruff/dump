@@ -1,0 +1,1 @@
+import{d as e,o as n,e as o,g as a}from"./DmTmMO_-.js";const t=a("p",null,"ini nanti jadi halaman home!",-1),s=[t],l=e({__name:"home",setup(_){return(c,i)=>(n(),o("div",null,s))}});export{l as default};

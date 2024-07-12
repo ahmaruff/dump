@@ -1,0 +1,3 @@
+const Produk_vue_vue_type_style_index_0_scoped_7c056901_lang = ".photo-upload-container[data-v-7c056901]{display:flex;flex-wrap:wrap;gap:16px}.photo-upload-item[data-v-7c056901]{margin:10px;width:100%}.kotak-dotted[data-v-7c056901]{align-items:center;border:2px dashed #ccc;display:flex;justify-content:center;margin-right:10px;padding:2px;text-align:center}.img-close-foto[data-v-7c056901],.kotak-dotted[data-v-7c056901]{border-radius:8px;height:100px}.img-close-foto[data-v-7c056901]{width:100px}.button-foto[data-v-7c056901]{background-color:#f1f1f1;border:none;cursor:pointer}.button-foto .size-4[data-v-7c056901]{font-size:24px}";
+
+export { Produk_vue_vue_type_style_index_0_scoped_7c056901_lang as P };

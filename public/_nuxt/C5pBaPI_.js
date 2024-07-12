@@ -1,0 +1,1 @@
+import{r as o,Y as t,L as r,E as u,Z as i}from"./DmTmMO_-.js";function l(n){const a=o(t(n));return r(()=>t(n),e=>{a.value=e||`nui-input-${Math.random().toString(36).slice(2)}`}),u(()=>{a.value||(a.value=`nui-input-${Math.random().toString(36).slice(2)}`)}),i(a)}export{l as u};
