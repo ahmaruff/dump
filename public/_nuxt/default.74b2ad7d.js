@@ -1,1 +1,0 @@
-import{d as a,bl as o,o as n,t as s,w as r,x as l,W as u,h as c}from"./entry.95308f2b.js";const _=a({__name:"default",setup(p){const{activeLayoutComponent:e}=o();return(t,f)=>(n(),s(u(c(e)),null,{default:r(()=>[l(t.$slots,"default")]),_:3}))}});export{_ as default};

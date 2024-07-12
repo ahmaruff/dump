@@ -1,1 +1,0 @@
-import{$ as o,o as r,a as t,a1 as a}from"./entry.95308f2b.js";const c=""+new URL("waktoo-commerce.999e4371.png",import.meta.url).href,m={};function s(e,n){return r(),t("img",a({src:c,alt:"Logo Waktoo Commerce"},e.$attrs),null,16)}const l=o(m,[["render",s]]);export{l as default};

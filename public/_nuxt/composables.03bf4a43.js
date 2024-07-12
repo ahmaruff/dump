@@ -1,1 +1,0 @@
-import{ak as u,c as t}from"./entry.95308f2b.js";function r(){const e=u("data"),o=t(()=>e.value?.token),n=t(()=>e.value?.user),a=t(()=>!!e.value),s=t(()=>a.value?{Accept:"application/json",Authorization:"Bearer "+e.value.token}:{Accept:"apllication/json"});return{token:o,user:n,loggedIn:a,headers:s.value}}export{r as u};
